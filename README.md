@@ -23,31 +23,6 @@ I'm a passionate Frontend Developer and AI Enthusiast with experience in buildin
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-
-## 🌟 Projects
-### 1️⃣ **AI Music Composer 🎵**
-- Utilizes **Deep Learning** and **MIDI files** to generate unique compositions.
-- Built using **TensorFlow, Magenta, and Librosa**.
-- Focused on creating AI-driven music based on user inputs.
-
-### 2️⃣ **AI-Generated Personalized Bedtime Stories 📖**
-- Uses **NLP** to craft engaging bedtime stories tailored to user preferences.
-- Developed an AI-powered story generator website with **React and Gemini API**.
-- **Free for all users**, no authentication required.
-
-### 3️⃣ **E-commerce Bookstore 🛒**
-- A fully functional **React-based** online bookstore.
-- Features: **Home, Products, Add to Cart, Login, Sign Up, User Dashboard, About Page**.
-- **Backend:** MERN stack with authentication and state management.
-
-### 4️⃣ **Login & Signup System 🔐**
-- Developed during an internship using **MERN stack**.
-- Secure authentication and user management system.
-
-### 5️⃣ **Age Calculator Website 📅**
-- A simple, responsive web app using **HTML, CSS, JavaScript**.
-- Calculates age based on user input (day, month, year).
-
 - 📫 How to reach me **karthikeyagaddam0451@gmail.com**
 
 I'm always open to collaborations and new opportunities. Let's build something amazing together! 🚀
