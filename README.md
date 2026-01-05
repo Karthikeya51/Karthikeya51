@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karthikeya Gaddam</h1>
 
 
-- 🌱 I’m currently learning **MERN Stack**
 
 
 # 💫 About Me:
